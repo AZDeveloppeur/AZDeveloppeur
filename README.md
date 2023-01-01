@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AZDeveloppeur
-- 👀 I am a C#, Lua, HTML, CSS, JS, TypeScript, C++ developer
+- 👀 I am a C#, Lua, HTML, CSS, JS, TypeScript, Python, C++ developer
 
 <!---
 AZDeveloppeur/AZDeveloppeur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
